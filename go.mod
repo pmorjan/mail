@@ -1,3 +1,3 @@
-module github.com/pmorjan/mail
+module github.com/pmorjan/mail/v2
 
-go 1.17
+go 1.22.5
